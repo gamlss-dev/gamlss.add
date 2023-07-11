@@ -9,7 +9,7 @@ export(
        #blag, llag, wlag,
        fitFixedKnots, fitFreeKnots,
        tr, gamlss.tr,
-      centilesTwo)
+       centilesTwo)
 
 importFrom(splines, splineDesign)
 importFrom(mgcv, exclude.too.far)
