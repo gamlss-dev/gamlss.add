@@ -7,7 +7,7 @@ Version: 5.1-8
 Date: 2023-07-10
 Depends:  R (>= 2.15.0), gamlss.dist, gamlss (>= 2.4.0), mgcv, nnet, rpart, graphics, stats, utils, grDevices, methods
 Suggests: lattice
-Author: Mikis Stasinopoulos <d.stasinopoulos@londonmet.ac.uk>, Bob Rigby, Vlasios Voudouris, Daniil Kiose
-Maintainer: Mikis Stasinopoulos <d.stasinopoulos@londonmet.ac.uk>
+Author: Mikis Stasinopoulos <d.stasinopoulos@gre.ac.uk>, Bob Rigby, Vlasios Voudouris, Daniil Kiose
+Maintainer: Mikis Stasinopoulos <d.stasinopoulos@gre.ac.uk>
 License: GPL-2 | GPL-3
 URL: https://www.gamlss.org/
