@@ -3,8 +3,8 @@ Description: Interface for extra smooth functions including tensor products,
              neural networks and decision trees.
 Title: Extra Additive Terms for Generalized Additive Models for Location Scale and Shape
 LazyLoad: yes
-Version: 5.1-9
-Date: 2023-10-03
+Version: 5.1-10
+Date: 2024-01-24
 Depends:  R (>= 2.15.0), gamlss.dist, gamlss (>= 2.4.0), mgcv, nnet, rpart, graphics, stats, utils, grDevices, methods
 Suggests: lattice
 Author: Mikis Stasinopoulos <d.stasinopoulos@gre.ac.uk>, Bob Rigby, Vlasios Voudouris, Daniil Kiose
