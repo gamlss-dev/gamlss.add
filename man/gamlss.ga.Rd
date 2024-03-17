@@ -40,11 +40,11 @@ Rigby, R. A. and  Stasinopoulos D. M. (2005). Generalized additive models for lo
 Rigby R.A., Stasinopoulos D. M., Heller G., and De Bastiani F., (2019) \emph{Distributions for Modeling Location, Scale and Shape: Using GAMLSS in R}, Chapman and Hall/CRC.
 
 Stasinopoulos D. M. Rigby R.A. (2007) Generalized additive models for location scale and shape (GAMLSS) in R.
-\emph{Journal of Statistical Software}, Vol. \bold{23}, Issue 7, Dec 2007, \url{http://www.jstatsoft.org/v23/i07}.
+\emph{Journal of Statistical Software}, \bold{23}(7), 1--46, \doi{10.18637/jss.v023.i07}
 
 Stasinopoulos D. M., Rigby R.A., Heller G., Voudouris V., and De Bastiani F., (2017) \emph{Flexible Regression and Smoothing: Using GAMLSS in R}, Chapman and Hall/CRC. 
 
-(see also \url{http://www.gamlss.com/}).
+(see also \url{https://www.gamlss.com/}).
 
 Wood S.N. (2006) Generalized Additive Models: An Introduction with R. Chapman and Hall/CRC Press. 
 }
